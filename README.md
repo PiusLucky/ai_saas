@@ -6,6 +6,7 @@ A Photo SaaS application built with Nextjs14, Stripe, Shadcn, Cloudinary and Tai
 1. Authentication Module
 2. Subscription Module
 3. Image Manipulation Module
+4. Page Progress Loader
 
 # .env Sample
 
