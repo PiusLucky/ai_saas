@@ -8,7 +8,6 @@ import { handleError } from "../utils";
 import { customAlphabet } from "nanoid";
 
 export async function createUser(user: CreateUserParams) {
-  console.log("🚀 ~ createUser ~ user:", user);
   try {
     await connectToDatabase();
 
