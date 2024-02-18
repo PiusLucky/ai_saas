@@ -13,7 +13,7 @@ export async function createUser(user: CreateUserParams) {
 
     if (!user.username) {
       const nanoid = customAlphabet("1234567890abcdefghijklz", 10);
-      user["username"] = `${user?.firstName}_${user?.firstName}_${nanoid(6)}`;
+      user["username"] = `${user?.firstName}_${user?.lastName}_${nanoid(6)}`;
     }
 
     const newUser = await User.create(user);
