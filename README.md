@@ -2,6 +2,11 @@
 A Photo SaaS application built with Nextjs14, Stripe, Shadcn, Cloudinary and Tailwind.
 
 
+# Modules
+1. Authentication Module
+2. Subscription Module
+3. Image Manipulation Module
+
 # .env Sample
 
 ```txt
