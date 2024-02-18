@@ -3,6 +3,8 @@ A Photo SaaS application built with Nextjs14, Stripe, Shadcn, Cloudinary and Tai
 
 
 # .env Sample
+
+```txt
 NEXT_PUBLIC_SERVER_URL=
 
 MONGODB_URL=
@@ -23,3 +25,4 @@ CLOUDINARY_API_SECRET=
 STRIPE_SECRET_KEY=
 STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
+```
