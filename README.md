@@ -1,11 +1,6 @@
 # AI_SaaS
 A Photo SaaS application built with Nextjs14, Stripe, Shadcn, Cloudinary and Tailwind.
 
-# Preview
-![image](https://github.com/PiusLucky/ai_saas/assets/32282934/598dbe16-7e9c-4392-b473-90d39ddec79f)
-
-
-
 # Youtube
 https://youtu.be/AI7v5rerr-o
 
